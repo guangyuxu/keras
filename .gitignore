@@ -13,9 +13,11 @@ __pycache__/
 # VS Code configs
 .devcontainer
 .vscode
+.idea
 
 # Bazel files
 bazel-bin
 bazel-keras
 bazel-out
 bazel-testlogs
+
